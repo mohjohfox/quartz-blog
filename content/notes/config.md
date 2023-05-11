@@ -79,10 +79,12 @@ page_title:
 
 # links to show in the footer
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/mohjohfox
+  - link_name: SimpleTactics
+    link: https://simpletactics.de
+  - link_name: LinkeIn
+    link: https://www.linkedin.com/in/marco-f-92052818a/
 ```
 
 ### Code Block Titles
